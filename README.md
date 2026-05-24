@@ -92,17 +92,11 @@ Setup Steps
 Example:
 
 cap = cv2.VideoCapture("http://192.168.1.5:8080/video")
-🌟 Future Enhancements
 😀 Face Recognition
 ☁️ Cloud Storage Integration
-📡 Telegram & WhatsApp Alerts
-🌙 Night Vision Optimization
+📡Message Alerts
 🧠 Advanced AI Threat Detection
 🎥 Multi-Camera Support
-🌐 Web Dashboard
-📊 Analytics & Logs
-
-
 🤝 Contributing
 
 Contributions, feature suggestions, and pull requests are welcome.
