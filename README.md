@@ -1,4 +1,4 @@
-🛡️ AI Security Camera & SMS Alert System
+🛡️# AI Security Camera & SMS Alert System #
 
 An intelligent real-time surveillance system powered by AI, computer vision, and instant SMS notifications.
 This project uses Python and OpenCV to monitor live camera feeds, detect suspicious activity, and immediately send alerts to a registered mobile number.
