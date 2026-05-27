@@ -10,6 +10,7 @@ Perfect for:
 🏪 Shops & Warehouses
 🎓 Student Projects
 🤖 AI & Computer Vision Learning
+
 🚀 Features
 
 ✅ Real-time AI surveillance
