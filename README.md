@@ -4,7 +4,6 @@ An intelligent real-time surveillance system powered by AI, computer vision, and
 This project uses Python and OpenCV to monitor live camera feeds, detect suspicious activity, and immediately send alerts to a registered mobile number.
 
 Perfect for:
-
 🏠 Home Security
 🏢 Office Monitoring
 🏪 Shops & Warehouses
