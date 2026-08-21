@@ -8,7 +8,6 @@ Perfect for:
 🏢 Office Monitoring
 🏪 Shops & Warehouses
 🎓 Student Projects
-🤖 AI & Computer Vision Learning
 
 🚀 Features
 
